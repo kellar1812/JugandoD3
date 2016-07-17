@@ -2,6 +2,9 @@
 Este es un repositorio para versionar proyectos de graficos con D3.js
 
 ## Grafica de Temperatura
+![grafo10](http://i64.tinypic.com/syy2rm.png "grafo10")
+
+## Grafica de Temperatura
 ![grafo1](http://i65.tinypic.com/ev3kao.png "grafo1")
 
 ## grafo
@@ -23,7 +26,7 @@ Este es un repositorio para versionar proyectos de graficos con D3.js
 ![grafo6](http://i63.tinypic.com/11j0swh.png "grafo6")
 
 ## poliedroEsfera
-![grafo8](http://i64.tinypic.com/24y65qw.png "grafo8")
+![grafo9](http://i64.tinypic.com/24y65qw.png "grafo9")
 
 ## pulse
 ![grafo7](http://i65.tinypic.com/jfj6z4.png "grafo7")
