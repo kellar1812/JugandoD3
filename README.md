@@ -22,6 +22,9 @@ Este es un repositorio para versionar proyectos de graficos con D3.js
 ## paletaDeColores
 ![grafo6](http://i63.tinypic.com/11j0swh.png "grafo6")
 
+## poliedroEsfera
+![grafo8](http://i64.tinypic.com/24y65qw.png "grafo8")
+
 ## pulse
 ![grafo7](http://i65.tinypic.com/jfj6z4.png "grafo7")
 
