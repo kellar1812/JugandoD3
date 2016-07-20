@@ -2,6 +2,10 @@
 Este es un repositorio para versionar proyectos de graficos con D3.js
 
 ## engranaje
+![grafo11](https://github.com/ingelectronicadj/JugandoD3/blob/master/cartaCeleste/salidaGrafico.png?raw=true "grafo11")
+
+
+## engranaje
 ![grafo10](http://i64.tinypic.com/syy2rm.png "grafo10")
 
 ## Grafica de Temperatura
