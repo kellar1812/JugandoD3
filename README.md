@@ -1,7 +1,7 @@
 # JugandoD3
 Este es un repositorio para versionar proyectos de graficos con D3.js
 
-## Grafica de Temperatura
+## engranaje
 ![grafo10](http://i64.tinypic.com/syy2rm.png "grafo10")
 
 ## Grafica de Temperatura
