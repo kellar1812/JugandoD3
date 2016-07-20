@@ -1,7 +1,7 @@
 # JugandoD3
 Este es un repositorio para versionar proyectos de graficos con D3.js
 
-## engranaje
+## cartaCeleste
 ![grafo11](https://github.com/ingelectronicadj/JugandoD3/blob/master/cartaCeleste/salidaGrafico.png?raw=true "grafo11")
 
 
