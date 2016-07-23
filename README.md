@@ -2,6 +2,9 @@
 Este es un repositorio para versionar proyectos de graficos con D3.js
 
 ## arbol
+![grafico13](https://github.com/ingelectronicadj/JugandoD3/blob/master/aprende/grafico.png?raw=true "grafico13")
+
+## arbol
 ![arbol](https://github.com/ingelectronicadj/JugandoD3/blob/master/arbol/salidaGrafico1.png?raw=true "arbol")
 
 ## cartaCeleste
